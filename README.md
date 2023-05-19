@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anastasia,</h1>
-<h3 align="center">a creative full-stack developer with an analytical mind!</h3>
+<div><img align="center" src="./github-header-image.png"></div>
 
+<h3>Creative individual with an analytical mind here, let's create together!</h3>
 
-
+<div>
+  
 - 🔭 I’m currently working on **building my portfolio**
 
 - 🌱 I’m currently learning **Backend, using React libraries**
@@ -14,6 +15,7 @@
 - 📫 How to reach me **anastasiaadamoudi@gmail.com**
 
 - ⚡ Fun fact **I love cats!**
+ </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working on: building my portfolio<br><br>
 🌱 I’m currently learning: Postman, Postgress, using React libraries<br><br>
-💡 Curious about learning: Netlify, Vercel
+💡 Curious about learning: Netlify, Vercel<br><br>
 👯 I’m looking to collaborate on: creating new projects<br><br>
 💬 Ask me about: JavaScript<br><br>
 📫 How to reach me: anastasiaadamoudi@gmail.com<br><br>

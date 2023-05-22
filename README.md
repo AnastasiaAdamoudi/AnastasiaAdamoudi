@@ -14,9 +14,19 @@
 
 ```javascript
 let more_about_anastasia = {
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node, Jest],
-  architecture: ["microservices", "event-driven", "design system pattern"]
+  education: {  degree_title: "Bsc Mathematics",
+                university_name: "University of Ioannina"  },
+  work_experience: [  "domiciliary care",
+                      "mathematics private tutor",
+                      "seasonal customer service",
+                      "volunteer walking route designer",
+                      "group coordinator and tour guide"  ],
+  skills_gained: [  "teamwork",
+                    "user centred approach",
+                    "adaptability"  ],
+  characteristics: [  "creativity",
+                      "organisation",
+                      "analytical mind"  ]
 }
 ```
 
@@ -51,11 +61,26 @@ let more_about_anastasia = {
   <summary>
     <h1> 📊 GitHub Stats </h1>
   </summary>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?        username=AnastasiaAdamoudi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+    
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaAdamoudi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
   ![](https://github-readme-stats.vercel.app/api?username=AnastasiaAdamoudi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
   ![](https://github-contributor-stats.vercel.app/api?username=AnastasiaAdamoudi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=AnastasiaAdamoudi&theme=nightowl&hide_border=false)
+    
 </details>
+
+<details>
+    <summary>
+        <h3> :open_file_folder: My Repositories </h3>
+    </summary>
+    <div>
+        <p align="right">
+	        <a href="https://github.com/AnastasiaAdamoudi/SchoolOfCode-Mid-Course-Team-Frontend-Project.git">
+      		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnastasiaAdamoudi&repo=SchoolOfCode-Mid-Course-Team-Frontend-Project&theme=tokyonight" alt="SchoolOfCode-Mid-Course-Team-Frontend-Project repository" />
+            </a>
+        </p>
+    </div>
+ </details>
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

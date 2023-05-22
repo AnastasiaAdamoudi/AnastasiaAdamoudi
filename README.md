@@ -1,25 +1,24 @@
 <div><img align="center" src="./github-header-image.png"></div>
 
 # 💫 About Me:
-🔭 I’m currently working on: building my portfolio<br><br>
-🌱 I’m currently learning: Postman, Postgress, using React libraries<br><br>
-💡 Curious about learning: Netlify, Vercel<br><br>
-👯 I’m looking to collaborate on: creating new projects<br><br>
-💬 Ask me about: JavaScript<br><br>
-📫 How to reach me: anastasiaadamoudi@gmail.com<br><br>
+🔭 I’m currently working on: building my portfolio<br>
+🌱 I’m currently learning: Postman, Postgress, React<br>
+💡 Curious about learning: Netlify, Vercel, more about Web Accessibility<br>
+👯 I’m looking to collaborate on: creating new projects<br>
+💬 Ask me about: JavaScript, new project ideas<br>
+🌐 How to reach me:
+    [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:anastasiaadamoudi@gmail.com)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiaadamoudi89)
+    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anastasia.ad.m31)<br>
 ⚡ Fun fact: I love cats!
 
-<!--```javascript
-const anastasia = {
+```javascript
+let more_about_anastasia = {
   code: [Javascript, HTML, CSS],
   tools: [React, Node, Jest],
   architecture: ["microservices", "event-driven", "design system pattern"]
 }
-```-->
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anastasia.ad.m31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiaadamoudi89) 
+```
 
 # 💻 Tech Stack:
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -39,21 +38,26 @@ const anastasia = {
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Adobe InDesign Badge](https://img.shields.io/badge/Adobe%20InDesign-F36?logo=adobeindesign&logoColor=fff&style=flat)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnastasiaAdamoudi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnastasiaAdamoudi&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaAdamoudi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnastasiaAdamoudi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+<details>
+  <summary>
+    <h1> :trophy: GitHub Trophies </h1>
+  </summary>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a>
+</details>
+
+<details>
+  <summary>
+    <h1> 📊 GitHub Stats </h1>
+  </summary>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?        username=AnastasiaAdamoudi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=AnastasiaAdamoudi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
+  ![](https://github-contributor-stats.vercel.app/api?username=AnastasiaAdamoudi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=AnastasiaAdamoudi&theme=nightowl&hide_border=false)
+</details>
+
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AnastasiaAdamoudi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=AnastasiaAdamoudi&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

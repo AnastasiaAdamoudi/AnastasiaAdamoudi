@@ -74,7 +74,7 @@ Project & Design:
         <h2> :open_file_folder: My Repositories </h2>
     </summary>
     <div>
-        <p align="right">
+        <p>
 	        <a href="https://github.com/AnastasiaAdamoudi/SchoolOfCode-Mid-Course-Team-Frontend-Project.git">
       		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnastasiaAdamoudi&repo=SchoolOfCode-Mid-Course-Team-Frontend-Project&theme=tokyonight" alt="SchoolOfCode-Mid-Course-Team-Frontend-Project repository" />
             </a>
@@ -101,8 +101,3 @@ Project & Design:
   </summary>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a>
 </details>
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-

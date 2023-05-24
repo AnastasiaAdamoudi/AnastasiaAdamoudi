@@ -45,6 +45,7 @@ Web Development:
 ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 ![Couchbase Badge](https://img.shields.io/badge/Couchbase-EA2328?logo=couchbase&logoColor=fff&style=flat)
+![Supabase Badge](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat)
 	
 </p>
 

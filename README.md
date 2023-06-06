@@ -14,19 +14,16 @@
 
 ```javascript
 let more_about_anastasia = {
-  education: {  degree_title: "Bsc Mathematics",
-                university_name: "University of Ioannina"  },
-  work_experience: [  "School of Code",
-  		      "domiciliary care",
-                      "mathematics private tutor",
-                      "seasonal customer service",
-                      "volunteer walking route designer, group coordinator and tour guide"  ],
-  skills_gained: [  "teamwork",
-                    "user centred approach",
-                    "adaptability"  ],
+  skills: [  "teamwork",
+             "user centred approach",
+             "adaptability"  ],
   characteristics: [  "creativity",
                       "organisation",
-                      "analytical mind"  ]
+                      "analytical mind"  ],
+  goals: [  "keep creating",
+            "helping others",
+            "having a positive impact"  ]
+		      
 }
 ```
 

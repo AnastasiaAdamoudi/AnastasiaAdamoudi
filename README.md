@@ -2,8 +2,8 @@
 
 ## 💫 About Me:
 🔭 I’m currently working on: building my portfolio<br>
-🌱 I’m currently learning: Postman, Postgress, React<br>
-💡 Curious about learning: Netlify, Vercel, more about Web Accessibility<br>
+🌱 I’m currently learning: more React<br>
+💡 Curious about learning: more about Web Accessibility, Next.js, MongoDB, Python<br>
 👯 I’m looking to collaborate on: creating new projects<br>
 💬 Ask me about: JavaScript, new project ideas<br>
 🌐 How to reach me:
@@ -22,10 +22,11 @@ let more_about_anastasia = {
                       "analytical mind"  ],
   goals: [  "keep creating",
             "helping others",
-            "having a positive impact"  ]
+            "making a positive impact"  ]
 		      
 }
 ```
+<br>
 
 ## 💻 Tech Stack:
 
@@ -37,11 +38,12 @@ Web Development:
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat)
 ![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=flat)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
-![Couchbase Badge](https://img.shields.io/badge/Couchbase-EA2328?logo=couchbase&logoColor=fff&style=flat)
 ![Supabase Badge](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat)
 	
 </p>
@@ -67,18 +69,34 @@ Project & Design:
 	
 </p>
 
-<details>
-    <summary>
-        <h2> :open_file_folder: My Repositories </h2>
-    </summary>
-    <div>
-        <p>
-	        <a href="https://github.com/AnastasiaAdamoudi/SchoolOfCode-Mid-Course-Team-Frontend-Project.git">
-      		  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnastasiaAdamoudi&repo=SchoolOfCode-Mid-Course-Team-Frontend-Project&theme=tokyonight" alt="SchoolOfCode-Mid-Course-Team-Frontend-Project repository" />
-            </a>
-        </p>
-    </div>
- </details>
+<br>
+
+## 🗂️ My projects:
+ <div>
+    <p>
+        <a href="https://github.com/M-A-S-H-E-D6/M.A.S.H.E.D_Garden_Genie.git">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-A-S-H-E-D6&repo=M.A.S.H.E.D_Garden_Genie&theme=tokyonight" alt="SchoolOfCode-Final-Team-Project frontend repository" />
+        </a>
+    </p>
+</div>
+<div>
+    <p>
+        <a href="https://github.com/AnastasiaAdamoudi/BootcampersTreasureChest.git">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnastasiaAdamoudi&repo=BootcampersTreasureChest&theme=tokyonight" alt="SchoolOfCode-Mid-Course-Team-Frontend-Project repository" />
+        </a>
+    </p>
+</div>
+<a href="https://github.com/AnastasiaAdamoudi/RecipesDisplay.git">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnastasiaAdamoudi&repo=RecipesDisplay&theme=tokyonight" alt="SchoolOfCode Hackathon - RecipesDisplay" />
+        </a>
+    </p>
+</div>
+<a href="https://github.com/AnastasiaAdamoudi/ExploreTheWorld.git">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnastasiaAdamoudi&repo=ExploreTheWorld&theme=tokyonight" alt="SchoolOfCode Hackathon - ExploreTheWorld" />
+        </a>
+    </p>
+</div>
+
 
 
 <details>

@@ -10,7 +10,7 @@
     [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:anastasiaadamoudi@gmail.com)
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiaadamoudi89)
     [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anastasia.ad.m31)<br>
-⚡ Fun fact: I love cats!
+⚡ Fun fact: I had my first coding class in my last year of highschool and it was in a greek psedo-code algorithmic language!
 
 ```javascript
 let more_about_anastasia = {

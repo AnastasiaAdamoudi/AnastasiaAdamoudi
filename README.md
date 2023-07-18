@@ -1,7 +1,11 @@
-<div><img align="center" src="./github-header-image.png"></div>
+Hi 👋 I'm Anastasia 
+================================
+
+Aspiring Full-Stack Developer
+--------------------------------
 
 ## 💫 About Me:
-🔭 I’m currently working on: building my portfolio<br>
+🔭 I’m currently working on: building my portfolio and looking for a job in tech<br>
 🌱 I’m currently learning: more React<br>
 💡 Curious about learning: more about Web Accessibility, Next.js, MongoDB, Python<br>
 👯 I’m looking to collaborate on: creating new projects<br>
@@ -97,7 +101,13 @@ Project & Design:
     </p>
 </div>
 
+<br>
 
+## :abacus: Codewars:
+
+![Codewars](https://github.r2v.ch/codewars?user=AnastasiaAdamoudi&stroke=%23b362ff&theme=purple_dark)
+
+<br>
 
 <details>
   <summary>

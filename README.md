@@ -5,11 +5,12 @@ Aspiring Full-Stack Developer
 --------------------------------
 
 ## 💫 About Me:
-🔭 I’m currently working on: building my portfolio and looking for a job in tech<br>
-🌱 I’m currently learning: more React<br>
-💡 Curious about learning: more about Web Accessibility, Next.js, MongoDB, Python<br>
-👯 I’m looking to collaborate on: creating new projects<br>
-💬 Ask me about: JavaScript, new project ideas<br>
+📌 Located in: United Kingdom <br>
+🗺️ Coming from: Greece <br>
+🔭 I’m currently working on: building my portfolio and looking for a job in tech <br>
+🌱 I’m currently learning: Web Accessibility, Next.js <br>
+💡 Curious about learning: MongoDB, Python <br>
+👯 I’m looking to collaborate on: creating new projects - all ideas welcome! <br>
 🌐 How to reach me:
     [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:anastasiaadamoudi@gmail.com)
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiaadamoudi89)
@@ -18,6 +19,12 @@ Aspiring Full-Stack Developer
 
 ```javascript
 let more_about_anastasia = {
+  studies: [  "BSc Mathematics from the University of Ioannina"  ],
+  work_experience: [  "trainee full-stack developer at School of Code",
+		      "domiciliary carer",
+		      "Mathematics private tutor"  ],
+  volunteering: [  "STEM ambassador to be",
+		   "Open House Thessaloniki"  ],
   skills: [  "teamwork",
              "user centred approach",
              "adaptability"  ],
@@ -63,6 +70,7 @@ Web Development:
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat)
 ![MUI Badge](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=flat)

@@ -32,6 +32,28 @@ let more_about_anastasia = {
 ```
 <br>
 
+<details>
+  <summary>
+    <h2>🚀 My School of Code journey </h2>
+  </summary>
+    
+- __Week 1:__ <a href="https://github.com/AnastasiaAdamoudi/RockPaperScissorsJavaScript">`Rock Paper Scissors game`</a>🔗 ➜ JavaScript fundamentals
+- __Week 2:__ <a href="https://github.com/AnastasiaAdamoudi/DictionaryAPI">`Dictionary search`</a>🔗 ➜ JavaScript event listeners and fetch from API
+- __Week 3:__ <a href="https://github.com/AnastasiaAdamoudi/LandingPageDesign">`Design a landing page`</a>🔗 ➜ Fundamentals of UI/UX
+- __Week 4:__ <a href="https://github.com/AnastasiaAdamoudi/PlaywrightTesting">`Playwright Testing`</a>🔗 ➜ Introduction to testing with Jest and playwright & <a href="https://github.com/AnastasiaAdamoudi/MakeYourOwnCodewars">`Make your own Codewars kata`</a>🔗 ➜ Create a Codewars kata with JavaScript and test it 
+- __Week 5:__ <a href="https://github.com/AnastasiaAdamoudi/ToDoListReactFrontend">`React To-Do List`</a>🔗 ➜ Introduction to React
+- __Week 6:__ <a href="https://github.com/AnastasiaAdamoudi/ReactTestingLibrary">`React Testing Library`</a>🔗 ➜ Testing in React & <a href="https://github.com/AnastasiaAdamoudi/WeatherApp-ReactAPI">`React Weather App`</a>🔗 ➜ Fetching from API with React
+- __Week 7:__ <a href="https://github.com/AnastasiaAdamoudi/BootcampersTreasureChest">`Bootcampers Treasure Chest`</a>🔗 ➜ Frontend team project
+- __Week 8:__ <a href="https://github.com/AnastasiaAdamoudi/ExploreTheWorld">`Explore the World`</a>🔗 ➜ Revising and applying the material covered up until now with a frontend project
+- __Week 9:__ <a href="https://github.com/AnastasiaAdamoudi/RecipesDisplayBackend">`Recipes Display`</a>🔗 ➜ Introduction to creating a backend for JavaScript frontend 
+- __Week 10:__ <a href="https://github.com/SchoolOfCode/BookDatabase">`Book database`</a>🔗 ➜ Using Express and PostgreSQL to create and edit a database
+- __Week 11:__ <a href="https://github.com/AnastasiaAdamoudi/AuthorisationAuthentication-Supabase">`Authorisation and Authentication`</a>🔗 ➜ Using Supabase & <a href="https://github.com/AnastasiaAdamoudi/WeatherApp-Typescript">`Weather App`</a>🔗 ➜ Fetching from API using TypeScript
+- __Weeks 12-16:__ <a href="https://github.com/AnastasiaAdamoudi/M.A.S.H.E.D_Garden_Genie">`Garden Genie frontend`</a>🔗 & <a href="https://github.com/AnastasiaAdamoudi/GardenGenieBackend">`Garden Genie backend`</a>🔗 ➜ Full-stack team project
+    
+</details>
+
+<br>
+
 ## 💻 Tech Stack:
 
 Web Development: 
@@ -90,11 +112,7 @@ Project & Design:
         </a>
     </p>
 </div>
-<a href="https://github.com/AnastasiaAdamoudi/RecipesDisplay.git">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnastasiaAdamoudi&repo=RecipesDisplay&theme=tokyonight" alt="SchoolOfCode Hackathon - RecipesDisplay" />
-        </a>
-    </p>
-</div>
+<div>
 <a href="https://github.com/AnastasiaAdamoudi/ExploreTheWorld.git">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnastasiaAdamoudi&repo=ExploreTheWorld&theme=tokyonight" alt="SchoolOfCode Hackathon - ExploreTheWorld" />
         </a>
@@ -102,6 +120,24 @@ Project & Design:
 </div>
 
 <br>
+
+<!--<div align="center">
+  <h3>
+    <a href="https://garden-genie.netlify.app/">
+      Website
+    </a>
+    <span> | </span>
+    <a href="https://github.com/AnastasiaAdamoudi/M.A.S.H.E.D_Garden_Genie">
+      Frontend code
+    </a>
+    <span> | </span>
+    <a href="https://github.com/AnastasiaAdamoudi/GardenGenieBackend">
+      Backend code
+    </a>
+  </h3>
+</div>
+
+<br>-->
 
 ## :abacus: Codewars:
 

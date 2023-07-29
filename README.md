@@ -7,15 +7,16 @@ Aspiring Full-Stack Developer
 ## 💫 About Me:
 📌 Located in: United Kingdom <br>
 🗺️ Coming from: Greece <br>
-🔭 I’m currently working on: building my portfolio and looking for a job in tech <br>
-🌱 I’m currently learning: Web Accessibility, Next.js <br>
+🔭 Working on: building my portfolio and looking for a job in tech <br>
+🌱 Currently learning: Web Accessibility, Next.js <br>
 💡 Curious about learning: MongoDB, Python <br>
-👯 I’m looking to collaborate on: creating new projects - all ideas welcome! <br>
+⚡ Fun fact: I had my first coding class in my last year of highschool and it was in a greek psedo-code algorithmic language! <br>
 🌐 How to reach me:
     [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:anastasiaadamoudi@gmail.com)
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiaadamoudi89)
-    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anastasia.ad.m31)<br>
-⚡ Fun fact: I had my first coding class in my last year of highschool and it was in a greek psedo-code algorithmic language!
+    <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anastasia.ad.m31)-->
+    
+<br>
 
 ```javascript
 let more_about_anastasia = {
@@ -106,50 +107,19 @@ Project & Design:
 <br>
 
 ## 🗂️ My projects:
- <div>
-    <p>
-        <a href="https://github.com/M-A-S-H-E-D6/M.A.S.H.E.D_Garden_Genie.git">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-A-S-H-E-D6&repo=M.A.S.H.E.D_Garden_Genie&theme=tokyonight" alt="SchoolOfCode-Final-Team-Project frontend repository" />
-        </a>
-    </p>
-</div>
-<div>
-    <p>
-        <a href="https://github.com/AnastasiaAdamoudi/BootcampersTreasureChest.git">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnastasiaAdamoudi&repo=BootcampersTreasureChest&theme=tokyonight" alt="SchoolOfCode-Mid-Course-Team-Frontend-Project repository" />
-        </a>
-    </p>
-</div>
-<div>
-<a href="https://github.com/AnastasiaAdamoudi/ExploreTheWorld.git">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnastasiaAdamoudi&repo=ExploreTheWorld&theme=tokyonight" alt="SchoolOfCode Hackathon - ExploreTheWorld" />
-        </a>
-    </p>
-</div>
+
+| **Name**          | **Technologies** | **Links**                                                                                                  |
+|---------------|--------------|--------------------------------------------------------------------------------------------------------|
+| *Garden Genie*  |  React, React Router, Bootstrap, CSS, Node.js, Express.js, MongoDB, React Testing Library, Netlify, Render   | [Website](https://garden-genie.netlify.app/)  &bull; [Frontend code](https://github.com/AnastasiaAdamoudi/M.A.S.H.E.D_Garden_Genie)  &bull; [Backend code](https://github.com/AnastasiaAdamoudi/GardenGenieBackend)  |
+| *Bootcampers Treasure Chest*  |  React, MaterialUI, CSS, GitHub Pages   | [Website](https://anastasiaadamoudi.github.io/BootcampersTreasureChest/)  &bull; [Frontend code](https://github.com/AnastasiaAdamoudi/BootcampersTreasureChest) |
+| *Explore the World*  |  React, MaterialUI, CSS, GitHub Pages   | [Website](https://anastasiaadamoudi.github.io/ExploreTheWorld/)  &bull; [Frontend code](https://github.com/AnastasiaAdamoudi/ExploreTheWorld) |
+
 
 <br>
 
-<!--<div align="center">
-  <h3>
-    <a href="https://garden-genie.netlify.app/">
-      Website
-    </a>
-    <span> | </span>
-    <a href="https://github.com/AnastasiaAdamoudi/M.A.S.H.E.D_Garden_Genie">
-      Frontend code
-    </a>
-    <span> | </span>
-    <a href="https://github.com/AnastasiaAdamoudi/GardenGenieBackend">
-      Backend code
-    </a>
-  </h3>
-</div>
-
-<br>-->
-
 ## :abacus: Codewars:
 
-![Codewars](https://github.r2v.ch/codewars?user=AnastasiaAdamoudi&stroke=%23b362ff&theme=purple_dark)
+![Codewars](https://github.r2v.ch/codewars?user=AnastasiaAdamoudi&theme=gradient_light)
 
 <br>
 
@@ -157,11 +127,10 @@ Project & Design:
   <summary>
     <h2> 📊 GitHub Stats </h2>
   </summary>
-    
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaAdamoudi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
-  ![](https://github-readme-stats.vercel.app/api?username=AnastasiaAdamoudi&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
-  ![](https://github-contributor-stats.vercel.app/api?username=AnastasiaAdamoudi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=AnastasiaAdamoudi&theme=nightowl&hide_border=false)
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaAdamoudi&theme=dracula&show_icons=true&hide_border=false&layout=compact)  
+  ![](https://github-readme-stats.vercel.app/api?username=AnastasiaAdamoudi&theme=dracula&show_icons=true)<br>
+  [![](https://streak-stats.demolab.com/?user=AnastasiaAdamoudi&theme=dracula)](https://git.io/streak-stats)<br>
     
 </details>
 
@@ -169,5 +138,6 @@ Project & Design:
   <summary>
     <h2> :trophy: GitHub Trophies </h2>
   </summary>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnastasiaAdamoudi&layout=compact&theme=onedark&column=4&margin-w=15&margin-h=15" /></a>
+	
 </details>

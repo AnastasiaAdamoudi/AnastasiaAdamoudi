@@ -8,8 +8,8 @@ Aspiring Full-Stack Developer
 📌 Located in: United Kingdom <br>
 🗺️ Coming from: Greece <br>
 🔭 Working on: building my portfolio and looking for a job in tech <br>
-🌱 Currently learning: Web Accessibility, Next.js <br>
-💡 Curious about learning: MongoDB, Python <br>
+🌱 Currently learning: Web Accessibility, Three.js <br>
+💡 Curious about learning: Next.js, Python <br>
 ⚡ Fun fact: I had my first coding class in my last year of highschool and it was in a greek psedo-code algorithmic language! <br>
 🌐 How to reach me:
     [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:anastasiaadamoudi@gmail.com)
@@ -80,6 +80,8 @@ Web Development:
 ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 ![Supabase Badge](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![Mongoose Badge](https://img.shields.io/badge/Mongoose-800?logo=mongoose&logoColor=fff&style=flat)
 	
 </p>
 
@@ -113,7 +115,7 @@ Project & Design:
 | *Garden Genie*  |  React, React Router, Bootstrap, CSS, Node.js, Express.js, MongoDB, React Testing Library, Netlify, Render   | [Website](https://garden-genie.netlify.app/)  &bull; [Frontend code](https://github.com/AnastasiaAdamoudi/M.A.S.H.E.D_Garden_Genie)  &bull; [Backend code](https://github.com/AnastasiaAdamoudi/GardenGenieBackend)  |
 | *Bootcampers Treasure Chest*  |  React, MaterialUI, CSS, GitHub Pages   | [Website](https://anastasiaadamoudi.github.io/BootcampersTreasureChest/)  &bull; [Frontend code](https://github.com/AnastasiaAdamoudi/BootcampersTreasureChest) |
 | *Explore the World*  |  React, MaterialUI, CSS, GitHub Pages   | [Website](https://anastasiaadamoudi.github.io/ExploreTheWorld/)  &bull; [Frontend code](https://github.com/AnastasiaAdamoudi/ExploreTheWorld) |
-
+| *To-Do List*  |  React, CSS, Node.js, Express.js, MongoDB   | [Frontend and backend code](https://github.com/AnastasiaAdamoudi/ToDoList-MERNstack) |
 
 <br>
 

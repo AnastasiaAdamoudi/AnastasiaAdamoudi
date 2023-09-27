@@ -1,15 +1,13 @@
 Hi 👋 I'm Anastasia 
 ================================
 
-Aspiring Full-Stack Developer
+Full-Stack Developer
 --------------------------------
 
 ## 💫 About Me:
 📌 Located in: United Kingdom <br>
 🗺️ Coming from: Greece <br>
 🔭 Working on: building my portfolio and looking for a job in tech <br>
-🌱 Currently learning: Web Accessibility, Three.js <br>
-💡 Curious about learning: Next.js, Python <br>
 ⚡ Fun fact: I had my first coding class in my last year of highschool and it was in a greek psedo-code algorithmic language! <br>
 🌐 How to reach me:
     [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:anastasiaadamoudi@gmail.com)

@@ -7,7 +7,7 @@ Full-Stack Developer
 ## 💫 About Me:
 📌 Located in: United Kingdom <br>
 🗺️ Coming from: Greece <br>
-🔭 Currently working on: an <a href="https://github.com/AnastasiaAdamoudi/ShiftWizard">employee shift generator</a>, a full-stack app (using MERN stack) I was asked to create <br>
+🔭 Currently working on: an <a href="https://github.com/AnastasiaAdamoudi/ShiftWizard">employee shift generator</a>, a full-stack app (using MERN stack) for a soon-to-be team leader <br>
 ⚡ Fun fact: I had my first coding class in my last year of highschool and it was in a greek psedo-code algorithmic language! <br>
 🌐 How to reach me:
     [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:anastasiaadamoudi@gmail.com)

@@ -119,7 +119,11 @@ Project & Design:
 
 <br>
 
-## 🗂️ My projects
+<details>
+	
+<summary> 
+	<h2>🗂️ My projects</h2>
+</summary>
 
 ### 🐐 Life Goats
 
@@ -172,7 +176,7 @@ Project & Design:
 | *To-Do List*  |  React, CSS, Node.js, Express.js, MongoDB   | [Frontend and backend code](https://github.com/AnastasiaAdamoudi/ToDoList-MERNstack) |
 -->
 
-<br>
+</details>
 
 <details>
   <summary>

@@ -4,7 +4,7 @@ Hi 👋 I'm Anastasia
 Full-Stack Developer
 --------------------------------
 
-## 💫 About Me:
+## 💫 About Me
 📌 Located in: United Kingdom :uk: <br>
 🗺️ Coming from: Greece :greece: <br>
 🔭 Currently working on: an <a href="https://github.com/AnastasiaAdamoudi/ShiftWizard">employee shift generator</a>, an <a href="https://github.com/AnastasiaAdamoudi/LifeGoats">event website</a> and my <a href="https://github.com/AnastasiaAdamoudi/PortfolioWebsite">portfolio website</a> <br>
@@ -71,7 +71,7 @@ more_about_anastasia = {
 
 <br>
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 Full-Stack Development: 
 
@@ -119,14 +119,58 @@ Project & Design:
 
 <br>
 
-## 🗂️ My projects:
+## 🗂️ My projects
 
+### 🐐 Life Goats
+
+* ***Links***: [Code](https://github.com/AnastasiaAdamoudi/LifeGoats)
+
+* ***Technologies***: React &bull; TailwindCSS &bull; Node.js
+
+* ***Status***: in progress 🚧
+
+<br>
+
+### ✨ Shift Magic</h3>
+
+ * ***Links***: [Code](https://github.com/AnastasiaAdamoudi/ShiftMagic)
+
+ * ***Technologies***: React &bull; React Router &bull; TailwindCSS &bull; Node.js &bull; Express.js &bull; MongoDB
+
+ * ***Status***: in progress 🚧
+
+<br>
+
+### ✦ onni.
+
+ * ***Links***: [Website](https://onni.vercel.app/)  &bull; [Code](https://github.com/AnastasiaAdamoudi/onni.-PeriodAppForTeens)
+ * ***Technologies***: Node.js &bull; Express.js &bull; MongoDB &bull; Passage by 1password &bull; EJS &bull; HTML &bull; CSS &bull; Bootstrap &bull; Vercel
+ * ***Status***: MVP complete ✅, roadmap in progress 🚧
+
+<br>
+
+### 🌺 Garden Genie
+
+ * ***Links***: [Website](https://garden-genie.netlify.app/)  &bull; [Frontend code](https://github.com/AnastasiaAdamoudi/M.A.S.H.E.D_Garden_Genie)  &bull; [Backend code](https://github.com/AnastasiaAdamoudi/GardenGenieBackend)
+ * ***Technologies***: React &bull; React Router &bull; Bootstrap &bull; CSS &bull; Node.js &bull; Express.js &bull; MongoDB &bull; Testing Library  &bull; Netlify &bull; Render
+ * ***Status***: complete ✅
+
+<br>
+
+### 🧰 Bootcampers Treasure Chest
+
+ * ***Links***: [Website](https://anastasiaadamoudi.github.io/BootcampersTreasureChest/)  &bull; [Code](https://github.com/AnastasiaAdamoudi/BootcampersTreasureChest)
+ * ***Technologies***: React &bull; MaterialUI &bull; CSS &bull; GitHub Pages
+ * ***Status***: complete ✅
+
+<!--
 | **Name**          | **Technologies** | **Links**                                                                                                  |
 |---------------|--------------|--------------------------------------------------------------------------------------------------------|
 | *Garden Genie*  |  React, React Router, Bootstrap, CSS, Node.js, Express.js, MongoDB, React Testing Library, Netlify, Render   | [Website](https://garden-genie.netlify.app/)  &bull; [Frontend code](https://github.com/AnastasiaAdamoudi/M.A.S.H.E.D_Garden_Genie)  &bull; [Backend code](https://github.com/AnastasiaAdamoudi/GardenGenieBackend)  |
 | *Bootcampers Treasure Chest*  |  React, MaterialUI, CSS, GitHub Pages   | [Website](https://anastasiaadamoudi.github.io/BootcampersTreasureChest/)  &bull; [Frontend code](https://github.com/AnastasiaAdamoudi/BootcampersTreasureChest) |
 | *Explore the World*  |  React, MaterialUI, CSS, GitHub Pages   | [Website](https://anastasiaadamoudi.github.io/ExploreTheWorld/)  &bull; [Frontend code](https://github.com/AnastasiaAdamoudi/ExploreTheWorld) |
 | *To-Do List*  |  React, CSS, Node.js, Express.js, MongoDB   | [Frontend and backend code](https://github.com/AnastasiaAdamoudi/ToDoList-MERNstack) |
+-->
 
 <br>
 

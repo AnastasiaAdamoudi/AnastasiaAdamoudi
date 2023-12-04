@@ -7,7 +7,7 @@ Full-Stack Developer
 ## 💫 About Me
 📌 Located in: United Kingdom :uk: <br>
 🗺️ Coming from: Greece :greece: <br>
-🔭 Currently working on: an <a href="https://github.com/AnastasiaAdamoudi/ShiftWizard">employee shift generator</a>, an <a href="https://github.com/AnastasiaAdamoudi/LifeGoats">event website</a> and my <a href="https://github.com/AnastasiaAdamoudi/PortfolioWebsite">portfolio website</a> <br>
+🔭 Currently working on: a <a href="https://github.com/AnastasiaAdamoudi/LifeGoats">retreat website</a> and my <a href="https://github.com/AnastasiaAdamoudi/PortfolioWebsite">portfolio website</a> <br>
 ⚡ Fun fact: I had my first coding class in my last year of highschool and it was in a greek psedo-code algorithmic language! <br>
 🌐 How to reach me:
     [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:anastasiaadamoudi@gmail.com)
@@ -109,7 +109,6 @@ Project & Design:
 <p>
 	
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
-![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat)
 ![Canva Badge](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff&style=flat)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)

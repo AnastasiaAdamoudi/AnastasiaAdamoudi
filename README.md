@@ -7,7 +7,7 @@ Full-Stack Developer
 ## 💫 About Me
 📌 Located in: United Kingdom :uk: <br>
 🗺️ Coming from: Greece :greece: <br>
-🔭 Currently working on: a <a href="https://github.com/AnastasiaAdamoudi/LifeGoats">retreat website</a> and my <a href="https://github.com/AnastasiaAdamoudi/PortfolioWebsite">portfolio website</a> <br>
+🔭 Currently working on: a <a href="https://github.com/AnastasiaAdamoudi/LifeGoats">retreat website</a>, an <a href="https://github.com/AnastasiaAdamoudi/InteractiveMap">interactive map website</a> and my <a href="https://github.com/AnastasiaAdamoudi/PortfolioWebsite">portfolio website</a> <br>
 ⚡ Fun fact: I had my first coding class in my last year of highschool and it was in a greek psedo-code algorithmic language! <br>
 🌐 How to reach me:
     [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:anastasiaadamoudi@gmail.com)

@@ -134,26 +134,6 @@ Project & Design:
 	<h2>🗂️ My projects</h2>
 </summary>
 
-### 🧭 Compass Of Care
-
-* ***Links***: [Code](https://github.com/AnastasiaAdamoudi/CompassOfCare)
-
-* ***Technologies***: Node.js &bull; Express &bull; React &bull; React Router &bull; Vite &bull; TailwindCSS &bull; React Hook Form
-
-* ***Status***: complete ✅, updates in progress 🚧
-
-<br>
-
-### 🗺️ Light A Beacon
-
-* ***Links***: [Code](https://github.com/AnastasiaAdamoudi/InteractiveMap)
-
-* ***Technologies***: React &bull; React Router &bull; Vite &bull; CSS &bull; React Leaflet &bull; React Hook Form
-
-* ***Status***: complete ✅, updates in progress 🚧
-
-<br>
-
 ### 🐐 Life Goats
 
 * ***Links***: [Website](https://lifegoats.com/) [Code](https://github.com/AnastasiaAdamoudi/LifeGoats)
@@ -195,6 +175,26 @@ Project & Design:
  * ***Links***: [Website](https://anastasiaadamoudi.github.io/BootcampersTreasureChest/)  &bull; [Code](https://github.com/AnastasiaAdamoudi/BootcampersTreasureChest)
  * ***Technologies***: React &bull; MaterialUI &bull; CSS &bull; GitHub Pages
  * ***Status***: complete ✅
+
+<br>
+
+ * ### 🧭 Compass Of Care
+
+* ***Links***: [Code](https://github.com/AnastasiaAdamoudi/CompassOfCare)
+
+* ***Technologies***: Node.js &bull; Express &bull; React &bull; React Router &bull; Vite &bull; TailwindCSS &bull; React Hook Form
+
+* ***Status***: in progress 🚧
+
+<br>
+
+### 🗺️ Light A Beacon
+
+* ***Links***: [Code](https://github.com/AnastasiaAdamoudi/InteractiveMap)
+
+* ***Technologies***: React &bull; React Router &bull; Vite &bull; CSS &bull; React Leaflet &bull; React Hook Form
+
+* ***Status***: in progress 🚧
 
 <!--
 | **Name**          | **Technologies** | **Links**                                                                                                  |

@@ -178,7 +178,7 @@ Project & Design:
 
 <br>
 
- * ### 🧭 Compass Of Care
+### 🧭 Compass Of Care
 
 * ***Links***: [Code](https://github.com/AnastasiaAdamoudi/CompassOfCare)
 

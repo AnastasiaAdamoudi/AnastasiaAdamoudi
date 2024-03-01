@@ -7,7 +7,8 @@ Full-Stack Developer
 ## 💫 About Me
 📌 Located in: United Kingdom :uk: <br>
 🗺️ Coming from: Greece :greece: <br>
-🔭 Currently working on: a <a href="https://github.com/AnastasiaAdamoudi/LifeGoats">retreat website</a>, an <a href="https://github.com/AnastasiaAdamoudi/InteractiveMap">interactive map website</a> and my <a href="https://github.com/AnastasiaAdamoudi/PortfolioWebsite">portfolio website</a> <br>
+🔭 My latest projects: Life Goats, a <a href="https://github.com/AnastasiaAdamoudi/LifeGoats">retreat website</a> and my <a href="https://github.com/AnastasiaAdamoudi/PortfolioWebsite">portfolio website</a> <br>
+🚀 Currently working on: the frontend of Light A Beacon <a href="https://github.com/AnastasiaAdamoudi/InteractiveMap"> an interactive map website</a> and Compass Of Care, a full-stack <a href="https://github.com/AnastasiaAdamoudi/CompassOfCare">web app to help a care manager get organised</a> <br>
 ⚡ Fun fact: I had my first coding class in my last year of highschool and it was in a greek psedo-code algorithmic language! <br>
 🌐 How to reach me:
     [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:anastasiaadamoudi@gmail.com)
@@ -26,19 +27,28 @@ more_about_anastasia = {
   studies: [  "BSc Mathematics from the University of Ioannina"  ],
   work_experience: [
 		    {
+		      job: "freelance web developer",
+		      date: "November 2023 - present",
+		     },
+		    {
 		      job: "trainee full-stack developer at School of Code",
 		      date: "March 2023 - July 2023",
 		     },
 		    {
 		      job: "domiciliary carer",
-		      date: "March 2016 until I land a job in tech"
+		      date: "March 2016 - present"
 		     },
 		    {
 		      job: "Mathematics private tutor",
-		      date: "before coming to the UK to be a carer"
+		      date: "before coming to the UK to become a carer"
 		     }
 		    ],
   volunteering: [
+                  {
+   		    event: "Basildon Creative Tech Fest",
+   		    date: "February 2024",
+		    description: "I organised the Creative Tech for Social Impact Hackathon with the support of my local tech group Southend Tech"
+ 		   },
 		  {
    		    event: "Chelmsford Science Festival",
    		    date: "October 2023",
@@ -124,23 +134,43 @@ Project & Design:
 	<h2>🗂️ My projects</h2>
 </summary>
 
-### 🐐 Life Goats
+### 🧭 Compass Of Care
 
-* ***Links***: [Code](https://github.com/AnastasiaAdamoudi/LifeGoats)
+* ***Links***: [Code](https://github.com/AnastasiaAdamoudi/CompassOfCare)
 
-* ***Technologies***: React &bull; TailwindCSS &bull; Node.js
+* ***Technologies***: Node.js &bull; Express &bull; React &bull; React Router &bull; Vite &bull; TailwindCSS &bull; React Hook Form
 
-* ***Status***: in progress 🚧
+* ***Status***: complete ✅, updates in progress 🚧
 
 <br>
 
-### ✨ Shift Magic</h3>
+### 🗺️ Light A Beacon
 
- * ***Links***: [Code](https://github.com/AnastasiaAdamoudi/ShiftMagic)
+* ***Links***: [Code](https://github.com/AnastasiaAdamoudi/InteractiveMap)
 
- * ***Technologies***: React &bull; React Router &bull; TailwindCSS &bull; Node.js &bull; Express.js &bull; MongoDB
+* ***Technologies***: React &bull; React Router &bull; Vite &bull; CSS &bull; React Leaflet &bull; React Hook Form
 
- * ***Status***: in progress 🚧
+* ***Status***: complete ✅, updates in progress 🚧
+
+<br>
+
+### 🐐 Life Goats
+
+* ***Links***: [Website](https://lifegoats.com/) [Code](https://github.com/AnastasiaAdamoudi/LifeGoats)
+
+* ***Technologies***: React &bull; React Router &bull; Vite &bull; TailwindCSS &bull; Framer Motion &bull; React Leaflet &bull; Chart.js &bull; Email.js
+
+* ***Status***: complete ✅, updates in progress 🚧
+
+<br>
+
+### ✨ My Portfolio Website
+
+* ***Links***: [Website](https://anastasiaadamoudi.com/) [Code](https://github.com/AnastasiaAdamoudi/PortfolioWebsite)
+
+* ***Technologies***: React &bull; React Router &bull; Vite &bull; TailwindCSS &bull; Framer Motion &bull; Email.js
+
+* ***Status***: MVP complete ✅, always in progress 🚧
 
 <br>
 
@@ -148,7 +178,7 @@ Project & Design:
 
  * ***Links***: [Website](https://onni.vercel.app/)  &bull; [Code](https://github.com/AnastasiaAdamoudi/onni.-PeriodAppForTeens)
  * ***Technologies***: Node.js &bull; Express.js &bull; MongoDB &bull; Passage by 1password &bull; EJS &bull; HTML &bull; CSS &bull; Bootstrap &bull; Vercel
- * ***Status***: MVP complete ✅, roadmap in progress 🚧
+ * ***Status***: MVP complete ✅, roadmap paused 🚧
 
 <br>
 

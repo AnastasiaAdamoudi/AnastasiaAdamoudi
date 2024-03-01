@@ -8,7 +8,7 @@ Full-Stack Developer
 📌 Located in: United Kingdom :uk: <br>
 🗺️ Coming from: Greece :greece: <br>
 🔭 My latest projects: Life Goats, a <a href="https://github.com/AnastasiaAdamoudi/LifeGoats">retreat website</a> and my <a href="https://github.com/AnastasiaAdamoudi/PortfolioWebsite">portfolio website</a> <br>
-🚀 Currently working on: the frontend of Light A Beacon <a href="https://github.com/AnastasiaAdamoudi/InteractiveMap"> an interactive map website</a> and Compass Of Care, a full-stack <a href="https://github.com/AnastasiaAdamoudi/CompassOfCare">web app to help a care manager get organised</a> <br>
+🚀 Currently working on: the frontend of Light A Beacon - an <a href="https://github.com/AnastasiaAdamoudi/InteractiveMap">interactive map website</a> and Compass Of Care - a full-stack <a href="https://github.com/AnastasiaAdamoudi/CompassOfCare">web app to help a care manager get organised</a> <br>
 ⚡ Fun fact: I had my first coding class in my last year of highschool and it was in a greek psedo-code algorithmic language! <br>
 🌐 How to reach me:
     [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:anastasiaadamoudi@gmail.com)

@@ -28,7 +28,7 @@ more_about_anastasia = {
   work_experience: [
 		    {
 		      job: "freelance web developer",
-		      date: "November 2023 - present",
+		      date: "September 2023 - present",
 		     },
 		    {
 		      job: "trainee full-stack developer at School of Code",
@@ -144,6 +144,26 @@ Project & Design:
 
 <br>
 
+### 🧭 Compass Of Care
+
+* ***Links***: [Code](https://github.com/AnastasiaAdamoudi/CompassOfCare)
+
+* ***Technologies***: Node.js &bull; Express &bull; React &bull; React Router &bull; Vite &bull; TailwindCSS &bull; React Hook Form
+
+* ***Status***: in progress 🚧
+
+<br>
+
+### 🗺️ Light A Beacon
+
+* ***Links***: [Code](https://github.com/AnastasiaAdamoudi/InteractiveMap)
+
+* ***Technologies***: React &bull; React Router &bull; Vite &bull; CSS &bull; React Leaflet &bull; React Hook Form
+
+* ***Status***: in progress 🚧
+
+<br>
+
 ### ✨ My Portfolio Website
 
 * ***Links***: [Website](https://anastasiaadamoudi.com/) [Code](https://github.com/AnastasiaAdamoudi/PortfolioWebsite)
@@ -177,24 +197,6 @@ Project & Design:
  * ***Status***: complete ✅
 
 <br>
-
-### 🧭 Compass Of Care
-
-* ***Links***: [Code](https://github.com/AnastasiaAdamoudi/CompassOfCare)
-
-* ***Technologies***: Node.js &bull; Express &bull; React &bull; React Router &bull; Vite &bull; TailwindCSS &bull; React Hook Form
-
-* ***Status***: in progress 🚧
-
-<br>
-
-### 🗺️ Light A Beacon
-
-* ***Links***: [Code](https://github.com/AnastasiaAdamoudi/InteractiveMap)
-
-* ***Technologies***: React &bull; React Router &bull; Vite &bull; CSS &bull; React Leaflet &bull; React Hook Form
-
-* ***Status***: in progress 🚧
 
 <!--
 | **Name**          | **Technologies** | **Links**                                                                                                  |

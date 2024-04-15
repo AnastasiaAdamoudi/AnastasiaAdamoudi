@@ -1,19 +1,19 @@
 Hi 👋 I'm Anastasia 
 ================================
 
-Full-Stack Developer
+Frontend Developer
 --------------------------------
 
 ## 💫 About Me
 📌 Located in: United Kingdom :uk: <br>
 🗺️ Coming from: Greece :greece: <br>
-🔭 My latest projects: Life Goats, a <a href="https://github.com/AnastasiaAdamoudi/LifeGoats">retreat website</a> and my <a href="https://github.com/AnastasiaAdamoudi/PortfolioWebsite">portfolio website</a> <br>
-🚀 Currently working on: the frontend of Light A Beacon - an <a href="https://github.com/AnastasiaAdamoudi/InteractiveMap">interactive map website</a> and Compass Of Care - a full-stack <a href="https://github.com/AnastasiaAdamoudi/CompassOfCare">web app to help a care manager get organised</a> <br>
+🔭 My latest project: [Life Goats](https://github.com/AnastasiaAdamoudi/LifeGoats) - a retreat website <br>
+🚀 Currently working on: [the frontend of Light A Beacon](https://github.com/AnastasiaAdamoudi/InteractiveMap) - an interactive map website, [The Golden Keys](https://github.com/AnastasiaAdamoudi/TheGoldenKeys) - a website for a locksmith business, [Projct360](https://github.com/AnastasiaAdamoudi/projct360) - a gallery web app and [Compass Of Care](https://github.com/AnastasiaAdamoudi/CompassOfCare) - a web app to help a care manager get organized
+<br>
 ⚡ Fun fact: I had my first coding class in my last year of highschool and it was in a greek psedo-code algorithmic language! <br>
 🌐 How to reach me:
     [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:anastasiaadamoudi@gmail.com)
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasiaadamoudi89)
-    <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anastasia.ad.m31)-->
     
 <br>
 

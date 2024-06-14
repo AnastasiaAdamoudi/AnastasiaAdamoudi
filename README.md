@@ -8,7 +8,7 @@ Frontend Developer
 📌 Located in: United Kingdom :uk: <br>
 🗺️ Coming from: Greece :greece: <br>
 🔭 My latest project: [Life Goats](https://github.com/AnastasiaAdamoudi/LifeGoats) - a retreat website <br>
-🚀 Currently working on: [the frontend of Light A Beacon](https://github.com/AnastasiaAdamoudi/InteractiveMap) - an interactive map website, [The Golden Keys](https://github.com/AnastasiaAdamoudi/TheGoldenKeys) - a website for a locksmith business and [Compass Of Care](https://github.com/AnastasiaAdamoudi/CompassOfCare) - a web app to help a care manager get organized
+🚀 Currently working on: [Light A Beacon](https://github.com/AnastasiaAdamoudi/InteractiveMap) - an interactive map website, [The Golden Keys](https://github.com/AnastasiaAdamoudi/TheGoldenKeys) - a website for a locksmith business and [Compass Of Care](https://github.com/AnastasiaAdamoudi/CompassOfCare) - a web app to help a care manager get organized
 <br>
 ⚡ Fun fact: I had my first coding class in my last year of highschool and it was in a greek psedo-code algorithmic language! <br>
 🌐 How to reach me:

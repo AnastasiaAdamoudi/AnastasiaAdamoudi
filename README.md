@@ -144,21 +144,21 @@ Project & Design:
 
 <br>
 
-### 🧭 Compass Of Care
+### 🗺️ Light A Beacon
 
-* ***Links***: [Code](https://github.com/AnastasiaAdamoudi/CompassOfCare)
+* ***Links***: [Code](https://github.com/AnastasiaAdamoudi/InteractiveMap)
 
-* ***Technologies***: Node.js &bull; Express &bull; React &bull; React Router &bull; Vite &bull; TailwindCSS &bull; React Hook Form
+* ***Technologies***: React &bull; React Router &bull; Vite &bull; CSS &bull; React Leaflet &bull; React Hook Form &bull; Node.js &bull; Express.js &bull; MongoDB
 
 * ***Status***: in progress 🚧
 
 <br>
 
-### 🗺️ Light A Beacon
+### 🧭 Compass Of Care
 
-* ***Links***: [Code](https://github.com/AnastasiaAdamoudi/InteractiveMap)
+* ***Links***: [Code](https://github.com/AnastasiaAdamoudi/CompassOfCare)
 
-* ***Technologies***: React &bull; React Router &bull; Vite &bull; CSS &bull; React Leaflet &bull; React Hook Form
+* ***Technologies***: Node.js &bull; Express &bull; React &bull; React Router &bull; Vite &bull; TailwindCSS &bull; React Hook Form
 
 * ***Status***: in progress 🚧
 

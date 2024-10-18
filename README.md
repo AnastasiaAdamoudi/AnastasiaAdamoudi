@@ -1,14 +1,14 @@
 Hi 👋 I'm Anastasia 
 ================================
 
-Frontend Developer
+Web Developer
 --------------------------------
 
 ## 💫 About Me
 📌 Located in: United Kingdom :uk: <br>
 🗺️ Coming from: Greece :greece: <br>
-🔭 My latest project: [Life Goats](https://github.com/AnastasiaAdamoudi/LifeGoats) - an outdoor community website <br>
-🚀 Currently working on: [Light A Beacon](https://github.com/AnastasiaAdamoudi/InteractiveMap) - an interactive map website and [Compass Of Care](https://github.com/AnastasiaAdamoudi/CompassOfCare) - a web app to help a care manager get organized
+🔭 My latest project: [Life Goats](https://github.com/AnastasiaAdamoudi/LifeGoats) - a website for an outdoor community I've founded along with my lifelong friend Maria <br>
+🚀 Working at: [PIE Code](https://www.linkedin.com/company/pie-web-ltd/)
 <br>
 ⚡ Fun fact: I had my first coding class in my last year of highschool and it was in a greek psedo-code algorithmic language! <br>
 🌐 How to reach me:
@@ -26,9 +26,13 @@ Frontend Developer
 more_about_anastasia = {
   studies: [  "BSc Mathematics from the University of Ioannina"  ],
   work_experience: [
+                    {
+		      job: "junior WordPress developer",
+		      date: "August 2024 - present",
+		     },
 		    {
 		      job: "freelance web developer",
-		      date: "September 2023 - present",
+		      date: "September 2023 - July 2024",
 		     },
 		    {
 		      job: "trainee full-stack developer at School of Code",
